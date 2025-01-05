@@ -1,0 +1,23 @@
+body{
+	background-color: skyblue;
+	margin:auto;
+}
+h1{
+	color: teal;
+	background-color: burlywood;
+	height: 40px;
+	width: 300px;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+
+}
+p{
+	background-color: greenyellow;
+	color: blueviolet;
+	text-align: center;
+	width: 500px;
+	margin: 5px;
+	padding: 5px;
+	border: 15px solid green;
+}
